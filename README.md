@@ -1,6 +1,6 @@
 # Omnifood
 
-Omnifood is the culmination of the skills and knowledge acquired during Jonas Schmedtman's course, "The Complete JavaScript Course: From Zero to Expert". This project is a fully responsive restaurant website that demonstrates the comprehensive application of the concepts covered throughout the course.
+Omnifood was developed as the final project of **Jonas Schmedtman's** course "The Complete JavaScript Course: From Zero to Expert". This project is a fully responsive restaurant website that demonstrates the comprehensive application of the concepts covered throughout the course.
 
 ## Main Feautures
 
