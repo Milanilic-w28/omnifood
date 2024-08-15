@@ -20,7 +20,7 @@ Omnifood was developed as the final project of **Jonas Schmedtman's** course "Th
 
 ## Live Preview
 
-[Omnifood](https://duckduckgo.com "The best search engine for privacy")
+[Omnifood](https://milanilic-w28.github.io/omnifood/)
 
 ## Screenshot
 
